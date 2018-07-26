@@ -1,0 +1,19 @@
+{
+  "name": "wxapp-write-easy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {
+    "lerna": "^2.11.0"
+  },
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "publish": "lerna publish"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}

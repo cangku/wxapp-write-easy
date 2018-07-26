@@ -1,0 +1,48 @@
+{
+	"miniprogramRoot": "./packages/wxapp",
+	"pluginRoot": "./packages/wxapp/doctorwork",
+	"compileType": "plugin",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"appid": "wxa55012c93c6aae46",
+	"projectname": "wxapp-write-easy",
+	"libVersion": "2.1.1",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": 0,
+			"list": [
+				{
+					"id": -1,
+					"name": "抽奖 plugin page",
+					"pathName": "pages/other/other"
+				}
+			]
+		},
+		"game": {
+			"list": []
+		},
+		"miniprogram": {
+			"current": 0,
+			"list": [
+				{
+					"id": -1,
+					"name": "demo",
+					"pathName": "pages/demo/demo"
+				}
+			]
+		}
+	}
+}

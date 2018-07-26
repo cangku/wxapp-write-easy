@@ -1,0 +1,39 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/demo/demo",
+        "pages/other/other",
+        "doctorwork/pages/lucky/index",
+        "doctorwork/pages/lucky/detail"
+    ],
+    "window": {
+        "navigationBarTitleText": "wxapp"
+    },
+    "tabBar": {
+        "list": [
+            {
+                "pagePath": "pages/index/index",
+                "text": "首页"
+            },
+            {
+                "pagePath": "pages/other/other",
+                "text": "抽奖"
+            },
+            {
+                "pagePath": "pages/demo/demo",
+                "text": "测试"
+            }
+        ]
+    },
+    "networkTimeout": {
+        "request": 10000,
+        "downloadFile": 10000
+    },
+    "debug": true,
+    "plugins": {
+        "doctorwork": {
+            "version": "dev",
+            "provider": "wxa55012c93c6aae46"
+        }
+    }
+}

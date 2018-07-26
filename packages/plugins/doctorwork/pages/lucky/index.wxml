@@ -1,0 +1,6 @@
+<!--packages/plugins/doctorwork/pages/lucky/index.wxml-->
+
+<import src="../../public/template/navigator.wxml" />
+<view>
+    <template is="navigator" data="{{href, isPlugin}}"></template>
+</view>

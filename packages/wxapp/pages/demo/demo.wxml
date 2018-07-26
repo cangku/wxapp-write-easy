@@ -1,0 +1,3 @@
+<web-view src="http://web-qa.doctorwork.com/rapp/activity/miniapp" bindmessage="msg"></web-view>
+
+<!-- web-view src="http://127.0.0.1:8080/app/dw-urinalysis-panel/demo" bindmessage="msg"></web-view -->

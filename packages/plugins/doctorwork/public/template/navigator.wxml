@@ -1,0 +1,4 @@
+<template name="navigator">
+    <navigator wx:if="{{isPlugin}}" url="{{href}}">详情页</navigator>
+    <view wx:else bindtap="forward" data-url="{{href}}">详情页</view>
+</template>

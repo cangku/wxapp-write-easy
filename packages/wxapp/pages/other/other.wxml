@@ -1,0 +1,3 @@
+<view>
+    <button bindtap="toPluginPage">other</button>
+</view>

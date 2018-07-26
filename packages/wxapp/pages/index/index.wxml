@@ -1,0 +1,5 @@
+<view bindtap="forward">
+    Index {{a}}
+    <navigator url="/doctorwork/pages/lucky/index">doctorwork pages lucky index</navigator>
+    <button bindtap="forward">forward</button>
+</view>
