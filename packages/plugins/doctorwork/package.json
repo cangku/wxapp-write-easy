@@ -1,0 +1,22 @@
+{
+    "name": "@unofficial/doctorwork",
+    "version": "0.0.0",
+    "description": "miniprogram plugin",
+    "dependencies": {
+        "@unofficial/components": "0.0.0",
+        "@unofficial/pages": "0.0.0",
+        "@unofficial/utils": "0.0.0"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "miniprogram",
+        "plugin"
+    ],
+    "publishConfig": {
+        "access": "public"
+    },
+    "author": "unofficial <cangku@unofficial.cn>",
+    "license": "MIT"
+}

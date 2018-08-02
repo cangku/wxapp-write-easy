@@ -1,0 +1,17 @@
+{
+	"appid": "wxa55012c93c6aae46",
+	"projectname": "miniprogram",
+	"compileType": "plugin",
+	"miniprogramRoot": "./miniprogram",
+	"pluginRoot": "./packages/plugins/doctorwork",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"nodeModules": true
+	},
+	"libVersion": "2.2.1",
+	"condition": {}
+}

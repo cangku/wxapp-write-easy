@@ -1,0 +1,19 @@
+{
+    "name": "@unofficial/pages",
+    "version": "0.0.0",
+    "description": "miniprogram page",
+    "miniprogram": "dist",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "miniprogram",
+        "plugin",
+        "page"
+    ],
+    "publishConfig": {
+        "access": "public"
+    },
+    "author": "unofficial <cangku@unofficial.cn>",
+    "license": "MIT"
+}

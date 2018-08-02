@@ -1,0 +1,10 @@
+{
+    "pages": ["pages/index/index"],
+    "debug": true,
+    "plugins": {
+        "doctorwork": {
+            "version": "dev",
+            "provider": "wxa55012c93c6aae46"
+        }
+    }
+}
