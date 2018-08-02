@@ -1,6 +1,6 @@
 {
     "name": "@unofficial/utils",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "miniprogram util",
     "main": "index.js",
     "miniprogram": "dist",

@@ -1,14 +1,16 @@
 {
     "name": "@unofficial/miniprogram",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "main": "app.js",
     "dependencies": {
-        "@unofficial/utils": "*"
+        "@unofficial/utils": "^0.0.1"
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "keywords": ["miniprogram"],
+    "keywords": [
+        "miniprogram"
+    ],
     "author": "unofficial <cangku@unofficial.cn>",
     "license": "MIT",
     "description": "a simple example of miniprogram",
