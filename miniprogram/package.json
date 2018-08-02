@@ -1,9 +1,9 @@
 {
     "name": "@unofficial/miniprogram",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "main": "app.js",
     "dependencies": {
-        "@unofficial/utils": "^0.0.1"
+        "@unofficial/utils": "^0.0.2"
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"

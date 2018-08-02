@@ -1,11 +1,11 @@
 {
     "name": "@unofficial/doctorwork",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "miniprogram plugin",
     "dependencies": {
-        "@unofficial/components": "^0.0.1",
-        "@unofficial/pages": "^0.0.1",
-        "@unofficial/utils": "^0.0.1"
+        "@unofficial/components": "^0.0.2",
+        "@unofficial/pages": "^0.0.2",
+        "@unofficial/utils": "^0.0.2"
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
