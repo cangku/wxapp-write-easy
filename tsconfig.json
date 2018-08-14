@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "lib": ["es2016"],
+        "sourceMap": true
+    },
+    "include": ["packages/**/src/**/*"],
+    "exclude": ["node_modules", "test"]
+}
